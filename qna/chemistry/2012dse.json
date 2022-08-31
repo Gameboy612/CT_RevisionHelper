@@ -1,0 +1,100 @@
+{
+    "questions": [
+        {
+            "question": "Which &4CANNOT&r conduct &6electricity&r?",
+            "answer": "CH₃CH₂OH(l)",
+            "other_options": [
+                "Pt(s)",
+                "PbBr₂",
+                "C(graphite)"
+            ],
+            "feedback": "CH₃CH₂OH does not have delocalized electrons.\n\n&7Q1 2012 DSE",
+            "weight": 62.5,
+            "time_limit": 15
+        },
+        {
+            "question": "Which is &6Polar &rmolecule?",
+            "answer": "NH₃",
+            "other_options": [
+                "BF₃",
+                "C₆₀",
+                "SF₆"
+            ],
+            "feedback": "NH₃ has 1 lone pair of electrons.\n\n&7Q5 2012 DSE",
+            "weight": 187.5,
+            "time_limit": 15
+        },
+        {
+            "question": "What is O.N. of Cu(NH₃)₄Cl₂?",
+            "answer": "+2",
+            "other_options": [
+                "+4",
+                "0",
+                "+6"
+            ],
+            "feedback": "Cu²⁺ ion is +2 O.N.\n\n&7Q6 2012 DSE",
+            "weight": 125,
+            "time_limit": 15
+        },
+        {
+            "question": "&6Silicon Carbide&r has similar structure to &bDiamond&r.\nWhy is it very hard?",
+            "answer": "Giant Network Structure with Strong Covalent Bonds",
+            "other_options": [
+                "High Melting Point",
+                "Silicon and Carbon atoms form &lTriple Bond",
+                "Silicon and Carbon have 4 outermost shell electrons"
+            ],
+            "feedback": "Similar structure to Diamond, crystallized structure. Strong Covalent Bond.\n\n&7Q8 2012 DSE",
+            "weight": 31.25,
+            "time_limit": 15
+        },
+        {
+            "question": "Which is &6Planar&r Structure",
+            "answer": "BF₃",
+            "other_options": [
+                "NH₃",
+                "CH₄",
+                "PCl₅"
+            ],
+            "feedback": "BF₃ has no lone pair of electrons.\n\n&7Q12 2012 DSE",
+            "weight": 31.25,
+            "time_limit": 15
+        },
+        {
+            "question": "Which is &6Planar&r Structure",
+            "answer": "BF₃",
+            "other_options": [
+                "NH₃",
+                "CH₄",
+                "PCl₅"
+            ],
+            "feedback": "BF₃ has no lone pair of electrons.\n\n&7Q12 2012 DSE",
+            "weight": 62.5,
+            "time_limit": 15
+        },
+        {
+            "question": "Which would form &4Acidic Solution &rwhen added to &aWater&r?",
+            "answer": "CO₂",
+            "other_options": [
+                "SiO₂",
+                "Al₂O₃",
+                "Li₂O"
+            ],
+            "feedback": "CO₂ + H₂O <=> H₂CO₃\n\n&7Q31 2012 DSE",
+            "weight": 62.5,
+            "time_limit": 15
+        },
+        {
+            "question": "Which would form &4Acidic Solution &rwhen added to &aWater&r?",
+            "answer": "CO₂",
+            "other_options": [
+                "SiO₂",
+                "Al₂O₃",
+                "Li₂O"
+            ],
+            "feedback": "CO₂ + H₂O <=> H₂CO₃\n\n&7Q31 2012 DSE",
+            "weight": 125,
+            "time_limit": 15
+        }
+    ]
+}

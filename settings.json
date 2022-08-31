@@ -1,0 +1,34 @@
+{
+    "background_color": [
+        0,
+        0,
+        0,
+        128
+    ],
+    "timeBetweenQuestion": 45,
+    "defaultTimeForAnswering": 10,
+    "answerCount": 4,
+    "toggle": true,
+    "correct_multiplier": 0.5,
+    "incorrect_multiplier": 3,
+    "default_weight": 1000,
+    "public_shaming": {
+        "channel": "pc",
+        "message": "LMAO! I just got this question wrong: ",
+        "enabled": true
+    },
+    "question_files": [
+        {
+            "path": "qna/ict.json",
+            "enabled": true
+        },
+        {
+            "path": "qna/chemistry.json",
+            "enabled": true
+        },
+        {
+            "path": "qna/chemistry/2012dse.json",
+            "enabled": true
+        }
+    ]
+}

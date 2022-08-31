@@ -1,0 +1,378 @@
+{
+    "questions": [
+        {
+            "question": "Which of the following cables has the highest data transmission speed?",
+            "answer": "Optical fibre cable",
+            "other_options": [
+                "Twisted-pair cable",
+                "Telephone line",
+                "Coaxial cable"
+            ],
+            "feedback": "",
+            "weight": 62.5,
+            "time_limit": 15
+        },
+        {
+            "question": "Which of the following will be assigned by a \n manufacturer when a network interface card is produced?",
+            "answer": "MAC address",
+            "other_options": [
+                "URL",
+                "IP address",
+                "Domain name"
+            ],
+            "feedback": "",
+            "weight": 105.46875,
+            "time_limit": 15
+        },
+        {
+            "question": "Which of the following technology is NOT applied in wireless communications?",
+            "answer": "Ultraviolet",
+            "other_options": [
+                "Bluetooth",
+                "Infra-red",
+                "Microwave"
+            ],
+            "feedback": "So, tell me how do you communicate with ultraviolet?",
+            "weight": 187.5,
+            "time_limit": 15
+        },
+        {
+            "question": "Which of the following statements about dial-up connection is correct?",
+            "answer": "It covers a wider area than broadband connections.",
+            "other_options": [
+                "Its maximum transmission speed is 256 Kbps.",
+                "A switch is needed to set up a dial-up connection.",
+                "It is the most stable way to connect to the Internet nowadays."
+            ],
+            "feedback": "",
+            "weight": 52.734375,
+            "time_limit": 15
+        },
+        {
+            "question": "Which of the following statements about LAN is correct?",
+            "answer": "It can be wired or wireless network.",
+            "other_options": [
+                "It limits the number of computer to 10.",
+                "It must have at least 1 server.",
+                "It can interconnect all the computers in a community."
+            ],
+            "feedback": "",
+            "weight": 62.5,
+            "time_limit": 15
+        },
+        {
+            "question": "Which of the following is NOT a communication protocol?",
+            "answer": "ISP",
+            "other_options": [
+                "POP",
+                "TCP",
+                "IP"
+            ],
+            "feedback": "POP (POP3): Post Office Protocol v3 \n TCP: Transmission Control Protocol \n IP: Internet Protocol \n ISP: Internet Service Provider, NOT a protocol.",
+            "weight": 140.625,
+            "time_limit": 15
+        },
+        {
+            "question": "Which of the following could NOT be a top-level domain name?",
+            "answer": ".htm",
+            "other_options": [
+                ".org",
+                ".hk",
+                ".net"
+            ],
+            "feedback": ".htm is a file extension.",
+            "weight": 70.3125,
+            "time_limit": 15
+        },
+        {
+            "question": "Which of the following types of communication requires real-time interaction?",
+            "answer": "Video conferencing",
+            "other_options": [
+                "Newsgroup",
+                "E-mail",
+                "Guestbook"
+            ],
+            "feedback": "Video conferencing require real-time communication.",
+            "weight": 93.75,
+            "time_limit": 15
+        },
+        {
+            "question": "Which of the following kinds of software CANNOT be used for communication?",
+            "answer": "Desktop publishing",
+            "other_options": [
+                "Instant messaging",
+                "Video conferencing",
+                "Web browser"
+            ],
+            "feedback": "How can you communicate with a desktop publishing software?",
+            "weight": 93.75,
+            "time_limit": 15
+        },
+        {
+            "question": "What does URL stand for?",
+            "answer": "Uniform Resource Locator",
+            "other_options": [
+                "Uniform Resource Location",
+                "Unique Resource Locator",
+                "Unique Resource Location"
+            ],
+            "feedback": "",
+            "weight": 140.625,
+            "time_limit": 15
+        },
+        {
+            "question": "IPv6 address has ___ .",
+            "answer": "128 bits",
+            "other_options": [
+                "32 bits",
+                "32 bytes",
+                "128 bytes"
+            ],
+            "feedback": "An IPv6 address include 32 heximal digits.",
+            "weight": 70.3125,
+            "time_limit": 15
+        },
+        {
+            "question": "Which of the following items does NOT exist?",
+            "answer": "CD+R",
+            "other_options": [
+                "CD-R",
+                "DVD-R",
+                "DVD+R"
+            ],
+            "feedback": "I guess your brain does NOT exist.",
+            "weight": 125,
+            "time_limit": 15
+        },
+        {
+            "question": "Which of the following is NOT an example of portable storage device?",
+            "answer": "DDR2 RAM",
+            "other_options": [
+                "Memory Stick",
+                "SD card",
+                "CompactFlash card"
+            ],
+            "feedback": "RAM is installed inside the computer.",
+            "weight": 35.15625,
+            "time_limit": 15
+        },
+        {
+            "question": "Which of the following is NOT an advantage of a USB flash drive?",
+            "answer": "Sequential access",
+            "other_options": [
+                "Portable",
+                "Less susceptible to magnetic interference",
+                "Lower power consumption"
+            ],
+            "feedback": "USB does not access data in a predetermined, ordered sequence.",
+            "weight": 46.875,
+            "time_limit": 15
+        },
+        {
+            "question": "Which of the following is NOT a secondary storage device?",
+            "answer": "ROM",
+            "other_options": [
+                "Floppy disk",
+                "Hard disk",
+                "SD card"
+            ],
+            "feedback": "ROM is installed inside the computer.",
+            "weight": 52.734375,
+            "time_limit": 15
+        },
+        {
+            "question": "Which of the following does NOT use direct access?",
+            "answer": "Magnetic tape drive",
+            "other_options": [
+                "Memory card",
+                "RAM",
+                "USB"
+            ],
+            "feedback": "A tape drive is required to read magnetic tape drive",
+            "weight": 140.625,
+            "time_limit": 15
+        },
+        {
+            "question": "Which of the following tasks is NOT performed by an operating system?",
+            "answer": "Word processing",
+            "other_options": [
+                "Device configuration",
+                "Memory management",
+                "File management",
+                "Account management",
+                "Auditing",
+                "User interface"
+            ],
+            "feedback": "",
+            "weight": 187.5,
+            "time_limit": 15
+        },
+        {
+            "question": "Which of the following is the function of disk defragmenter?",
+            "answer": "Reorganize the data into a better use of space.",
+            "other_options": [
+                "Format a hard disk.",
+                "Back up data in a hard disk.",
+                "Scan the hard disk and search for computer viruses."
+            ],
+            "feedback": "",
+            "weight": 158.203125,
+            "time_limit": 15
+        },
+        {
+            "question": "Which of the following is NOT open source software?",
+            "answer": "Internet Explorer",
+            "other_options": [
+                "Fedora Linux",
+                "OpenOffice.org",
+                "Apache HTTP Server"
+            ],
+            "feedback": "",
+            "weight": 46.875,
+            "time_limit": 15
+        },
+        {
+            "question": "Which of the following is NOT an example of communication software?",
+            "answer": "Web authoring software",
+            "other_options": [
+                "Instant messaging software",
+                "Web browser",
+                "FTP program"
+            ],
+            "feedback": "Web authoring software is a type of desktop publishing tool.",
+            "weight": 93.75,
+            "time_limit": 15
+        },
+        {
+            "question": "What kind of utility program does WinZip belong to?",
+            "answer": "File compression utility",
+            "other_options": [
+                "Disk defragmenter",
+                "System monitoring software",
+                "File manager"
+            ],
+            "feedback": "",
+            "weight": 46.875,
+            "time_limit": 15
+        },
+        {
+            "question": "DOS is a ___________________________ operating system.",
+            "answer": "single-user and single-tasking",
+            "other_options": [
+                "single-user and multi-tasking ",
+                "multi-user and single-tasking",
+                "multi-user and multi-tasking"
+            ],
+            "feedback": "",
+            "weight": 187.5,
+            "time_limit": 15
+        },
+        {
+            "question": "Which of the following types of buses is used \n to carry data between different hardware components?",
+            "answer": "Data bus",
+            "other_options": [
+                "Address bus",
+                "IRQ bus",
+                "Control bus"
+            ],
+            "feedback": "",
+            "weight": 125,
+            "time_limit": 15
+        },
+        {
+            "question": "Which of the following statements about RAM is true?",
+            "answer": "RAM is volatile.",
+            "other_options": [
+                "Many computers are installed with at least 2 TB RAM nowadays.",
+                "There are more ROM than RAM in a PC."
+            ],
+            "feedback": "",
+            "weight": 187.5,
+            "time_limit": 15
+        },
+        {
+            "question": "Which of the following sequences of a machine cycle is correct?",
+            "answer": "Fetch-Decode-Execute",
+            "other_options": [
+                "Decode-Fetch-Execute",
+                "Decode-Execute-Fetch",
+                "Fetch-Execute-Decode"
+            ],
+            "feedback": "",
+            "weight": 79.1015625,
+            "time_limit": 15
+        },
+        {
+            "question": "Which of the following registers contains a number of flag bits?",
+            "answer": "SR",
+            "other_options": [
+                "IR",
+                "MAR",
+                "MDR"
+            ],
+            "feedback": "Status Register (SR) contains information about the state of the processor.",
+            "weight": 46.875,
+            "time_limit": 15
+        },
+        {
+            "question": "Which of the following register stores an address?",
+            "answer": "PC",
+            "other_options": [
+                "IR",
+                "ACC",
+                "SR"
+            ],
+            "feedback": "Program Counter (PC) stores the address of the instruction will be executed next.",
+            "weight": 70.3125,
+            "time_limit": 15
+        },
+        {
+            "question": "Which of the following is a valid IPv6 address?",
+            "answer": "2001:0db8:85a3:0000:0000:8a2e:0370:7334",
+            "other_options": [
+                "192.168.0.1",
+                "10.120.224.250",
+                "A0:FF:B3:45:10:2C"
+            ],
+            "feedback": "An IPv6 address include 32 heximal digits.",
+            "weight": 125,
+            "time_limit": 20
+        },
+        {
+            "question": "Which of the following storage media is \n most suitable for a backup of 500GB data?",
+            "answer": "Magnetic tape",
+            "other_options": [
+                "CD-R",
+                "BLU-RAY disc",
+                "USB"
+            ],
+            "feedback": "Magnetic tape is suitable for backup, can store up to 500GB, and most importantly, its price is affordable.",
+            "weight": 52.734375,
+            "time_limit": 15
+        },
+        {
+            "question": "Which is NOT used in a WAN?",
+            "answer": "WIFI",
+            "other_options": [
+                "Satellites",
+                "Optical fibre",
+                "Telephone lines"
+            ],
+            "feedback": "WIFI is used in LAN (Local Area Network).",
+            "weight": 105.46875,
+            "time_limit": 15
+        },
+        {
+            "question": "Which of the following wireless technology supports longest distance?",
+            "answer": "WIFI",
+            "other_options": [
+                "NFC",
+                "RFID",
+                "Bluetooth"
+            ],
+            "feedback": "",
+            "weight": 35.15625,
+            "time_limit": 15
+        }
+    ]
+}
