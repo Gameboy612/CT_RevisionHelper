@@ -29,6 +29,7 @@ let timeForAnswering = settings.defaultTimeForAnswering
 
 let rvToggle = settings.toggle
 
+let correct_ans_index = -1
 
 function pickDataBase(files) {
     file_weights = []
@@ -115,10 +116,12 @@ function shuffleArray(input_array) {
 function pickOption(q, ansCount) {
     // Return an array of ansCount answers
     let output
-    if(q.answer.isArray()) {
-        output = [{option:q.answer[Math.floor(Math.random() * q.answer)], correct:true}]
+    if(Array.isArray(q.answer)) {
+        correct_ans_index = Math.floor(Math.random() * q.answer.length)
+        output = [{option:q.answer[correct_ans_index], correct:true, feedback: q.feedback[correct_ans_index]}]
     } else {
-        output = [{option:q.answer, correct:true}]
+        correct_ans_index = -1
+        output = [{option:q.answer, correct:true, feedback:q.feedback}]
     }
 
     
@@ -271,8 +274,14 @@ function secLoop() {
                 ChatLib.chat("correct")
             } else {
                 multiplyWeight(questionPicked, incorrect_multiplier)
-                ChatLib.chat("\n\n&cAnswer Incorrect!\n&aQuestion: &r" + question.question + "\n&aCorrect Answer: &r" + question.answer + "\n")
-                if(question.feedback) {
+                if(Array.isArray(question.answer)) {
+                    ChatLib.chat("\n\n&cAnswer Incorrect!\n&aQuestion: &r" + question.question + "\n&aCorrect Answer: &r" + question.answer[correct_ans_index] + "\n")
+                } else {
+                    ChatLib.chat("\n\n&cAnswer Incorrect!\n&aQuestion: &r" + question.question + "\n&aCorrect Answer: &r" + question.answer + "\n")
+                }
+                if(question.feedback && Array.isArray(question.feedback)) {
+                    ChatLib.chat("&bExplanation: &r" + question.feedback[correct_ans_index])
+                } else {
                     ChatLib.chat("&bExplanation: &r" + question.feedback)
                 }
                 ChatLib.chat("\n\n")

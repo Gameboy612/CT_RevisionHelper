@@ -14,13 +14,31 @@
         },
         {
             "question": "Which is &6Polar &rmolecule?",
-            "answer": "NH₃",
+            "answer": [
+                "NH₃",
+                "H₂O",
+                "HF",
+                "CH₃OH",
+                "HCl",
+                "SO₂"
+            ],
             "other_options": [
                 "BF₃",
                 "C₆₀",
-                "SF₆"
+                "SF₆",
+                "CO₂",
+                "CH₄",
+                "CCl₄",
+                "SiO₂"
             ],
-            "feedback": "NH₃ has 1 lone pair of electrons.\n\n&7Q5 2012 DSE",
+            "feedback": [
+                "NH₃ has 1 lone pair of electrons.\n\n&7Q5 2012 DSE",
+                "H₂O has 1 lone pair of electrons.",
+                "H-F is polar bond",
+                "CH₃OH has C-H, C-O and O-H polar bond, cannot cancel out.",
+                "H-Cl is polar bond",
+                "SO₂ has 1 lone pair of electrons."
+            ],
             "weight": 187.5,
             "time_limit": 15
         },
@@ -49,30 +67,6 @@
             "time_limit": 15
         },
         {
-            "question": "Which is &6Planar&r Structure",
-            "answer": "BF₃",
-            "other_options": [
-                "NH₃",
-                "CH₄",
-                "PCl₅"
-            ],
-            "feedback": "BF₃ has no lone pair of electrons.\n\n&7Q12 2012 DSE",
-            "weight": 31.25,
-            "time_limit": 15
-        },
-        {
-            "question": "Which is &6Planar&r Structure",
-            "answer": "BF₃",
-            "other_options": [
-                "NH₃",
-                "CH₄",
-                "PCl₅"
-            ],
-            "feedback": "BF₃ has no lone pair of electrons.\n\n&7Q12 2012 DSE",
-            "weight": 62.5,
-            "time_limit": 15
-        },
-        {
             "question": "Which would form &4Acidic Solution &rwhen added to &aWater&r?",
             "answer": "CO₂",
             "other_options": [
@@ -82,18 +76,6 @@
             ],
             "feedback": "CO₂ + H₂O <=> H₂CO₃\n\n&7Q31 2012 DSE",
             "weight": 62.5,
-            "time_limit": 15
-        },
-        {
-            "question": "Which would form &4Acidic Solution &rwhen added to &aWater&r?",
-            "answer": "CO₂",
-            "other_options": [
-                "SiO₂",
-                "Al₂O₃",
-                "Li₂O"
-            ],
-            "feedback": "CO₂ + H₂O <=> H₂CO₃\n\n&7Q31 2012 DSE",
-            "weight": 125,
             "time_limit": 15
         }
     ]

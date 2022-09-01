@@ -5,7 +5,7 @@
         0,
         128
     ],
-    "timeBetweenQuestion": 45,
+    "timeBetweenQuestion": 30,
     "defaultTimeForAnswering": 10,
     "answerCount": 4,
     "toggle": true,
@@ -15,7 +15,7 @@
     "public_shaming": {
         "channel": "pc",
         "message": "LMAO! I just got this question wrong: ",
-        "enabled": true
+        "enabled": false
     },
     "question_files": [
         {
@@ -28,6 +28,10 @@
         },
         {
             "path": "qna/chemistry/2012dse.json",
+            "enabled": true
+        },
+        {
+            "path": "qna/chemistry/3d_structures.json",
             "enabled": true
         }
     ]

@@ -1,0 +1,160 @@
+{
+    "questions": [
+        
+        {
+            "question": "Which is &6Linear&r Structure",
+            "answer": [
+                "CO₂",
+                "SiO₂"
+            ],
+            "other_options": [
+                "CH₄",
+                "CCl₄",
+                "CF₄",
+                "NH₄⁺",
+                "CF₄",
+                "SiCl₄",
+                "BF₃",
+                "H₂O",
+                "SO₂"
+            ],
+            "weight": 1000,
+            "time_limit": 15
+        },
+        {
+            "question": "Which is &6Planar&r Structure",
+            "answer": "BF₃",
+            "other_options": [
+                "NH₃",
+                "CH₄",
+                "PCl₅",
+                "CO₂",
+                "SO₂",
+                "HCl",
+                "HF",
+                "SF₆",
+                "SCl₆"
+            ],
+            "feedback": "BF₃ has no lone pair of electrons.\n\n&7Q12 2012 DSE",
+            "weight": 1000,
+            "time_limit": 15
+        },
+        {
+            "question": "Which is &6Tetrahedral&r Structure",
+            "answer": [
+                "CH₄",
+                "CCl₄",
+                "CF₄",
+                "NH₄⁺",
+                "CF₄",
+                "SiCl₄",
+                "CH₂Cl₂"
+            ],
+            "other_options": [
+                "NH₃",
+                "BF₃",
+                "PCl₅",
+                "PF₅",
+                "HCl",
+                "HF",
+                "CO₂",
+                "SO₂",
+                "SF₆",
+                "SCl₆"
+            ],
+            "weight": 1000,
+            "time_limit": 15
+        },
+        {
+            "question": "Which is &6Trigonal Bipyramidal&r Structure",
+            "answer": [
+                "PCl₅",
+                "PF₅"
+            ],
+            "other_options": [
+                "CH₄",
+                "CCl₄",
+                "CF₄",
+                "NH₄⁺",
+                "CF₄",
+                "SiCl₄",
+                "BF₃",
+                "HCl",
+                "HF",
+                "NH₃",
+                "SO₂",
+                "CO₂",
+                "SF₆",
+                "SCl₆"
+            ],
+            "weight": 1000,
+            "time_limit": 15
+        },
+        {
+            "question": "Which is &6Octahedral&r Structure",
+            "answer": [
+                "SF₆",
+                "SCl₆"
+            ],
+            "other_options": [
+                "CH₄",
+                "CCl₄",
+                "CF₄",
+                "NH₄⁺",
+                "CF₄",
+                "SiCl₄",
+                "BF₃",
+                "HCl",
+                "HF",
+                "NH₃",
+                "SO₂",
+                "CO₂"
+            ],
+            "weight": 1000,
+            "time_limit": 15
+        },
+        {
+            "question": "Which is &6V-Shaped&r Structure",
+            "answer": [
+                "H₂O",
+                "SO₂"
+            ],
+            "other_options": [
+                "CH₄",
+                "CCl₄",
+                "CF₄",
+                "NH₄⁺",
+                "CF₄",
+                "SiCl₄",
+                "BF₃",
+                "HCl",
+                "HF",
+                "CO₂"
+            ],
+            "weight": 1000,
+            "time_limit": 15
+        },
+        {
+            "question": "Which is &6Trigonal Pyramidal&r Structure",
+            "answer": [
+                "NH₃",
+                "SO₃²⁻"
+            ],
+            "other_options": [
+                "CH₄",
+                "CCl₄",
+                "CF₄",
+                "NH₄⁺",
+                "CF₄",
+                "SiCl₄",
+                "BF₃",
+                "HCl",
+                "HF",
+                "SO₂",
+                "CO₂"
+            ],
+            "weight": 1000,
+            "time_limit": 15
+        }
+    ]
+}
