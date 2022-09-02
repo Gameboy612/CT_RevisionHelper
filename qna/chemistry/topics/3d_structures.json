@@ -1,6 +1,5 @@
 {
     "questions": [
-        
         {
             "question": "Which is &6Linear&r Structure",
             "answer": [
@@ -36,7 +35,7 @@
                 "SCl₆"
             ],
             "feedback": "BF₃ has no lone pair of electrons.\n\n&7Q12 2012 DSE",
-            "weight": 1000,
+            "weight": 250,
             "time_limit": 15
         },
         {
@@ -62,7 +61,7 @@
                 "SF₆",
                 "SCl₆"
             ],
-            "weight": 1000,
+            "weight": 250,
             "time_limit": 15
         },
         {
@@ -87,7 +86,7 @@
                 "SF₆",
                 "SCl₆"
             ],
-            "weight": 1000,
+            "weight": 125,
             "time_limit": 15
         },
         {
@@ -110,7 +109,7 @@
                 "SO₂",
                 "CO₂"
             ],
-            "weight": 1000,
+            "weight": 125,
             "time_limit": 15
         },
         {
@@ -131,7 +130,7 @@
                 "HF",
                 "CO₂"
             ],
-            "weight": 1000,
+            "weight": 500,
             "time_limit": 15
         },
         {
@@ -153,7 +152,7 @@
                 "SO₂",
                 "CO₂"
             ],
-            "weight": 1000,
+            "weight": 1500,
             "time_limit": 15
         }
     ]

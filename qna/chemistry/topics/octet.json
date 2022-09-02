@@ -3,24 +3,53 @@
         {
             "question": "Which of the following are octet?",
             "answer": [
-                
+                "NaCl",
+                "MgO",
+                "NH₃",
+                "PH₃",
+                "CH₄",
+                "H₂O",
+                "CO₂",
+                "SiCl₄",
+                "CCl₄",
+                "PCl₃"
             ],
             "other_options": [
-
+                "SF6",
+                "BH₃",
+                "PCl5",
+                "SCl6",
+                "BBr₃",
+                "PBr5",
+                "SO₂"
             ],
-            "weight": 3000,
+            "weight": 750,
             "time_limit": 15
         },
-
         {
-            "question": "Which of the following are soluble?",
+            "question": "Which of the following are non-octet?",
             "answer": [
-                
+                "SF6",
+                "BH₃",
+                "PCl5",
+                "SCl6",
+                "BBr₃",
+                "PBr5",
+                "SO₂"
             ],
             "other_options": [
-
+                "NaCl",
+                "MgO",
+                "NH₃",
+                "PH₃",
+                "CH₄",
+                "H₂O",
+                "CO₂",
+                "SiCl₄",
+                "CCl₄",
+                "PCl₃"
             ],
-            "weight": 3000,
+            "weight": 421.875,
             "time_limit": 15
         }
     ]

@@ -21,7 +21,7 @@
                 "Domain name"
             ],
             "feedback": "",
-            "weight": 105.46875,
+            "weight": 52.734375,
             "time_limit": 15
         },
         {
@@ -33,7 +33,7 @@
                 "Microwave"
             ],
             "feedback": "So, tell me how do you communicate with ultraviolet?",
-            "weight": 187.5,
+            "weight": 93.75,
             "time_limit": 15
         },
         {
@@ -93,7 +93,7 @@
                 "Guestbook"
             ],
             "feedback": "Video conferencing require real-time communication.",
-            "weight": 93.75,
+            "weight": 46.875,
             "time_limit": 15
         },
         {
@@ -204,7 +204,7 @@
                 "User interface"
             ],
             "feedback": "",
-            "weight": 187.5,
+            "weight": 93.75,
             "time_limit": 15
         },
         {
@@ -228,7 +228,7 @@
                 "Apache HTTP Server"
             ],
             "feedback": "",
-            "weight": 46.875,
+            "weight": 23.4375,
             "time_limit": 15
         },
         {
@@ -252,7 +252,7 @@
                 "File manager"
             ],
             "feedback": "",
-            "weight": 46.875,
+            "weight": 140.625,
             "time_limit": 15
         },
         {
@@ -287,7 +287,7 @@
                 "There are more ROM than RAM in a PC."
             ],
             "feedback": "",
-            "weight": 187.5,
+            "weight": 46.875,
             "time_limit": 15
         },
         {
@@ -335,7 +335,7 @@
                 "A0:FF:B3:45:10:2C"
             ],
             "feedback": "An IPv6 address include 32 heximal digits.",
-            "weight": 125,
+            "weight": 62.5,
             "time_limit": 20
         },
         {

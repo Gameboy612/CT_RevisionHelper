@@ -118,7 +118,13 @@ function pickOption(q, ansCount) {
     let output
     if(Array.isArray(q.answer)) {
         correct_ans_index = Math.floor(Math.random() * q.answer.length)
-        output = [{option:q.answer[correct_ans_index], correct:true, feedback: q.feedback[correct_ans_index]}]
+        if(Array.isArray(q.feedback)) {
+            output = [{option:q.answer[correct_ans_index], correct:true, feedback: q.feedback[correct_ans_index]}]
+        } else if(q.feedback) {
+            output = [{option:q.answer[correct_ans_index], correct:true, feedback: q.feedback}]
+        } else {
+            output = [{option:q.answer[correct_ans_index], correct:true}]
+        }
     } else {
         correct_ans_index = -1
         output = [{option:q.answer, correct:true, feedback:q.feedback}]
@@ -279,10 +285,14 @@ function secLoop() {
                 } else {
                     ChatLib.chat("\n\n&cAnswer Incorrect!\n&aQuestion: &r" + question.question + "\n&aCorrect Answer: &r" + question.answer + "\n")
                 }
-                if(question.feedback && Array.isArray(question.feedback)) {
-                    ChatLib.chat("&bExplanation: &r" + question.feedback[correct_ans_index])
+                if(question.feedback ) {
+                    if(Array.isArray(question.feedback)) {
+                        ChatLib.chat("&bExplanation: &r" + question.feedback[correct_ans_index])
+
+                    } else {
+                        ChatLib.chat("&bExplanation: &r" + question.feedback)
+                    }
                 } else {
-                    ChatLib.chat("&bExplanation: &r" + question.feedback)
                 }
                 ChatLib.chat("\n\n")
 
