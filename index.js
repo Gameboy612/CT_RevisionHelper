@@ -157,7 +157,7 @@ function showQuestion(question, options) {
     height = Renderer.screen.getHeight();
     width = Renderer.screen.getWidth()
 
-    World.playSound("random.orb", 0.5, 1)
+    World.playSound("random.anvil_land", 0.5, 1)
     
     display.setRenderLoc(width / 2, height / 10);
     display.clearLines()
