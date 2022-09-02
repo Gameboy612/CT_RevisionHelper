@@ -42,18 +42,20 @@
         },
         {
             "question": "What color is Fe3+",
-            "answer": "&6Yellowish Brown",
+            "answer": [
+                "&eYellow",
+                "&4Brown",
+                "&6Yellowish Brown"
+            ],
             "other_options": [
                 "&cRed",
                 "&4Blood Red",
                 "&6Orange",
-                "&eYellow",
                 "&aGreen",
                 "&9Blue",
                 "&5Purple",
                 "&dPink",
                 "&fPale pink",
-                "&4Brown",
                 "&2Dark Green",
                 "&fColourless",
                 "&fWhite",
