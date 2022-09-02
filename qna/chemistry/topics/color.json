@@ -1,7 +1,7 @@
 {
     "misc": [
         "&cRed",
-        "&4Bloody Red",
+        "&4Blood Red",
         "&6Orange",
         "&eYellow",
         "&aGreen",
@@ -22,7 +22,7 @@
             "answer": "&aGreen",
             "other_options": [
                 "&cRed",
-                "&4Bloody Red",
+                "&4Blood Red",
                 "&6Orange",
                 "&eYellow",
                 "&9Blue",
@@ -34,15 +34,18 @@
                 "&2Dark Green",
                 "&fColourless",
                 "&fWhite",
-                "&5Violet"
-            ]
+                "&5Violet",
+                "&1Deep Blue"
+            ],
+            "weight": 1000,
+            "time_limit": 15
         },
         {
             "question": "What color is Fe3+",
             "answer": "&6Yellowish Brown",
             "other_options": [
                 "&cRed",
-                "&4Bloody Red",
+                "&4Blood Red",
                 "&6Orange",
                 "&eYellow",
                 "&aGreen",
@@ -54,15 +57,18 @@
                 "&2Dark Green",
                 "&fColourless",
                 "&fWhite",
-                "&5Violet"
-            ]
+                "&5Violet",
+                "&1Deep Blue"
+            ],
+            "weight": 1000,
+            "time_limit": 15
         },
         {
             "question": "What color is Cu+",
             "answer": "&fColourless",
             "other_options": [
                 "&cRed",
-                "&4Bloody Red",
+                "&4Blood Red",
                 "&6Orange",
                 "&eYellow",
                 "&aGreen",
@@ -74,15 +80,18 @@
                 "&4Brown",
                 "&2Dark Green",
                 "&fWhite",
-                "&5Violet"
-            ]
+                "&5Violet",
+                "&1Deep Blue"
+            ],
+            "weight": 1000,
+            "time_limit": 15
         },
         {
             "question": "What color is Cu2+",
             "answer": "&9Blue",
             "other_options": [
                 "&cRed",
-                "&4Bloody Red",
+                "&4Blood Red",
                 "&6Orange",
                 "&eYellow",
                 "&aGreen",
@@ -94,15 +103,18 @@
                 "&2Dark Green",
                 "&fColourless",
                 "&fWhite",
-                "&5Violet"
-            ]
+                "&5Violet",
+                "&1Deep Blue"
+            ],
+            "weight": 1000,
+            "time_limit": 15
         },
         {
             "question": "What color is Ni2+",
             "answer": "&aGreen",
             "other_options": [
                 "&cRed",
-                "&4Bloody Red",
+                "&4Blood Red",
                 "&6Orange",
                 "&eYellow",
                 "&9Blue",
@@ -114,15 +126,18 @@
                 "&2Dark Green",
                 "&fColourless",
                 "&fWhite",
-                "&5Violet"
-            ]
+                "&5Violet",
+                "&1Deep Blue"
+            ],
+            "weight": 1000,
+            "time_limit": 15
         },
         {
             "question": "What color is Co2+",
             "answer": "&dPink",
             "other_options": [
                 "&cRed",
-                "&4Bloody Red",
+                "&4Blood Red",
                 "&6Orange",
                 "&eYellow",
                 "&aGreen",
@@ -134,15 +149,18 @@
                 "&2Dark Green",
                 "&fColourless",
                 "&fWhite",
-                "&5Violet"
-            ]
+                "&5Violet",
+                "&1Deep Blue"
+            ],
+            "weight": 1000,
+            "time_limit": 15
         },
         {
             "question": "What color is Cr2O7 2-",
             "answer": "&6Orange",
             "other_options": [
                 "&cRed",
-                "&4Bloody Red",
+                "&4Blood Red",
                 "&eYellow",
                 "&aGreen",
                 "&9Blue",
@@ -154,15 +172,18 @@
                 "&2Dark Green",
                 "&fColourless",
                 "&fWhite",
-                "&5Violet"
-            ]
+                "&5Violet",
+                "&1Deep Blue"
+            ],
+            "weight": 1000,
+            "time_limit": 15
         },
         {
             "question": "What color is Cr3+",
             "answer": "&aGreen",
             "other_options": [
                 "&cRed",
-                "&4Bloody Red",
+                "&4Blood Red",
                 "&6Orange",
                 "&eYellow",
                 "&9Blue",
@@ -174,15 +195,18 @@
                 "&2Dark Green",
                 "&fColourless",
                 "&fWhite",
-                "&5Violet"
-            ]
+                "&5Violet",
+                "&1Deep Blue"
+            ],
+            "weight": 1000,
+            "time_limit": 15
         },
         {
             "question": "What color is CrO4 2-",
             "answer": "&eYellow",
             "other_options": [
                 "&cRed",
-                "&4Bloody Red",
+                "&4Blood Red",
                 "&6Orange",
                 "&aGreen",
                 "&9Blue",
@@ -194,15 +218,18 @@
                 "&2Dark Green",
                 "&fColourless",
                 "&fWhite",
-                "&5Violet"
-            ]
+                "&5Violet",
+                "&1Deep Blue"
+            ],
+            "weight": 1000,
+            "time_limit": 15
         },
         {
             "question": "What color is MnO4 -",
             "answer": "&5Purple",
             "other_options": [
                 "&cRed",
-                "&4Bloody Red",
+                "&4Blood Red",
                 "&6Orange",
                 "&eYellow",
                 "&aGreen",
@@ -214,15 +241,18 @@
                 "&2Dark Green",
                 "&fColourless",
                 "&fWhite",
-                "&5Violet"
-            ]
+                "&5Violet",
+                "&1Deep Blue"
+            ],
+            "weight": 1000,
+            "time_limit": 15
         },
         {
             "question": "What color is Mn2+",
             "answer": "&fColourless",
             "other_options": [
                 "&cRed",
-                "&4Bloody Red",
+                "&4Blood Red",
                 "&6Orange",
                 "&eYellow",
                 "&aGreen",
@@ -234,15 +264,18 @@
                 "&4Brown",
                 "&2Dark Green",
                 "&fWhite",
-                "&5Violet"
-            ]
+                "&5Violet",
+                "&1Deep Blue"
+            ],
+            "weight": 1000,
+            "time_limit": 15
         },
         {
             "question": "What color is MnO",
             "answer": "&2Dark Green",
             "other_options": [
                 "&cRed",
-                "&4Bloody Red",
+                "&4Blood Red",
                 "&6Orange",
                 "&eYellow",
                 "&aGreen",
@@ -254,15 +287,18 @@
                 "&4Brown",
                 "&fColourless",
                 "&fWhite",
-                "&5Violet"
-            ]
+                "&5Violet",
+                "&1Deep Blue"
+            ],
+            "weight": 1000,
+            "time_limit": 15
         },
         {
             "question": "What color is V2+",
             "answer": "&5Violet",
             "other_options": [
                 "&cRed",
-                "&4Bloody Red",
+                "&4Blood Red",
                 "&6Orange",
                 "&eYellow",
                 "&aGreen",
@@ -275,14 +311,16 @@
                 "&2Dark Green",
                 "&fColourless",
                 "&fWhite"
-            ]
+            ],
+            "weight": 1000,
+            "time_limit": 15
         },
         {
             "question": "What color is V3+",
             "answer": "&aGreen",
             "other_options": [
                 "&cRed",
-                "&4Bloody Red",
+                "&4Blood Red",
                 "&6Orange",
                 "&eYellow",
                 "&9Blue",
@@ -294,15 +332,18 @@
                 "&2Dark Green",
                 "&fColourless",
                 "&fWhite",
-                "&5Violet"
-            ]
+                "&5Violet",
+                "&1Deep Blue"
+            ],
+            "weight": 1000,
+            "time_limit": 15
         },
         {
             "question": "What color is V4+",
             "answer": "&9Blue",
             "other_options": [
                 "&cRed",
-                "&4Bloody Red",
+                "&4Blood Red",
                 "&6Orange",
                 "&eYellow",
                 "&aGreen",
@@ -314,15 +355,18 @@
                 "&2Dark Green",
                 "&fColourless",
                 "&fWhite",
-                "&5Violet"
-            ]
+                "&5Violet",
+                "&1Deep Blue"
+            ],
+            "weight": 1000,
+            "time_limit": 15
         },
 		{
             "question": "What color is Fe4+",
             "answer": "&5Violet",
             "other_options": [
                 "&cRed",
-                "&4Bloody Red",
+                "&4Blood Red",
                 "&6Orange",
                 "&eYellow",
                 "&aGreen",
@@ -335,11 +379,16 @@
                 "&2Dark Green",
                 "&fColourless",
                 "&fWhite"
-            ]
+            ],
+            "weight": 1000,
+            "time_limit": 15
         },
 		{
             "question": "What color is Fe(SCN)2+",
-            "answer": "&4Blood Red",
+            "answer": [
+                "&4Blood Red",
+                "&4Dark Red"
+            ],
             "other_options": [
                 "&cRed",
                 "&6Orange",
@@ -354,15 +403,18 @@
                 "&2Dark Green",
                 "&fColourless",
                 "&fWhite",
-                "&5Violet"
-            ]
+                "&5Violet",
+                "&1Deep Blue"
+            ],
+            "weight": 1000,
+            "time_limit": 15
         },
         {
             "question": "What color is Cu(NH3)4 2+",
             "answer": "&1Deep Blue",
             "other_options": [
                 "&cRed",
-                "&4Bloody Red",
+                "&4Blood Red",
                 "&6Orange",
                 "&eYellow",
                 "&aGreen",
@@ -376,7 +428,9 @@
                 "&fColourless",
                 "&fWhite",
                 "&5Violet"
-            ]
+            ],
+            "weight": 1000,
+            "time_limit": 15
         }
     ]
 }

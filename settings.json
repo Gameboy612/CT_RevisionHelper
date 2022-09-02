@@ -31,7 +31,15 @@
             "enabled": true
         },
         {
-            "path": "qna/chemistry/3d_structures.json",
+            "path": "qna/chemistry/topics/3d_structures.json",
+            "enabled": true
+        },
+        {
+            "path": "qna/chemistry/topics/color.json",
+            "enabled": true
+        },
+        {
+            "path": "qna/chemistry/topics/solubility.json",
             "enabled": true
         }
     ]

@@ -1,0 +1,27 @@
+{
+    "questions": [
+        {
+            "question": "Which of the following are octet?",
+            "answer": [
+                
+            ],
+            "other_options": [
+
+            ],
+            "weight": 3000,
+            "time_limit": 15
+        },
+
+        {
+            "question": "Which of the following are soluble?",
+            "answer": [
+                
+            ],
+            "other_options": [
+
+            ],
+            "weight": 3000,
+            "time_limit": 15
+        }
+    ]
+}
