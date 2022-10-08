@@ -45,6 +45,10 @@
         {
             "path": "qna/chemistry/topics/octet.json",
             "enabled": true
+        },
+        {
+            "path": "qna/chinese/translate/lim_po.json",
+            "enabled": true
         }
     ]
 }

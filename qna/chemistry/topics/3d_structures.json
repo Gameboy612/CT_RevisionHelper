@@ -17,7 +17,7 @@
                 "H₂O",
                 "SO₂"
             ],
-            "weight": 1000,
+            "weight": 31.25,
             "time_limit": 15
         },
         {
@@ -35,7 +35,7 @@
                 "SCl₆"
             ],
             "feedback": "BF₃ has no lone pair of electrons.\n\n&7Q12 2012 DSE",
-            "weight": 250,
+            "weight": 15.625,
             "time_limit": 15
         },
         {
@@ -61,7 +61,7 @@
                 "SF₆",
                 "SCl₆"
             ],
-            "weight": 250,
+            "weight": 79.1015625,
             "time_limit": 15
         },
         {
@@ -86,7 +86,7 @@
                 "SF₆",
                 "SCl₆"
             ],
-            "weight": 125,
+            "weight": 15.625,
             "time_limit": 15
         },
         {
@@ -109,7 +109,7 @@
                 "SO₂",
                 "CO₂"
             ],
-            "weight": 125,
+            "weight": 11.71875,
             "time_limit": 15
         },
         {
@@ -130,7 +130,7 @@
                 "HF",
                 "CO₂"
             ],
-            "weight": 500,
+            "weight": 15.625,
             "time_limit": 15
         },
         {
@@ -152,7 +152,7 @@
                 "SO₂",
                 "CO₂"
             ],
-            "weight": 1500,
+            "weight": 52.734375,
             "time_limit": 15
         }
     ]

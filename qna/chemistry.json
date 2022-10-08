@@ -9,7 +9,7 @@
                 "Sodium chloride solution"
             ],
             "feedback": "Rust is hydrated iron(III) oxide and can react with acid.",
-            "weight": 140.625,
+            "weight": 13.18359375,
             "time_limit": 15
         },
         {
@@ -21,7 +21,7 @@
                 "Lead"
             ],
             "feedback": "Only Zn(OH)2 & Pb(OH)2 can redissolve in excess NaOH solution, however, sulphate of Y is soluble in water. Thus Y is Zinc.",
-            "weight": 26.3671875,
+            "weight": 13.18359375,
             "time_limit": 20
         },
         {
@@ -33,7 +33,7 @@
                 "Ammonium sulphate"
             ],
             "feedback": "If you heat ammonium nitrate, you will become Taliban.",
-            "weight": 93.75,
+            "weight": 35.15625,
             "time_limit": 15
         },
         {
@@ -45,7 +45,7 @@
                 "0.1M HNO3"
             ],
             "feedback": "Among the 4 acids, only ethanoic acid is a weak acid which ionizes slightly in water.",
-            "weight": 62.5,
+            "weight": 15.625,
             "time_limit": 15
         },
         {
@@ -57,7 +57,7 @@
                 "Li2O"
             ],
             "feedback": "",
-            "weight": 79.1015625,
+            "weight": 19.775390625,
             "time_limit": 15
         }
     ]

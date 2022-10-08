@@ -37,7 +37,7 @@
                 "&5Violet",
                 "&1Deep Blue"
             ],
-            "weight": 500,
+            "weight": 31.25,
             "time_limit": 15
         },
         {
@@ -62,7 +62,7 @@
                 "&5Violet",
                 "&1Deep Blue"
             ],
-            "weight": 500,
+            "weight": 46.875,
             "time_limit": 15
         },
         {
@@ -85,7 +85,7 @@
                 "&5Violet",
                 "&1Deep Blue"
             ],
-            "weight": 375,
+            "weight": 11.71875,
             "time_limit": 15
         },
         {
@@ -108,7 +108,7 @@
                 "&5Violet",
                 "&1Deep Blue"
             ],
-            "weight": 500,
+            "weight": 31.25,
             "time_limit": 15
         },
         {
@@ -131,7 +131,7 @@
                 "&5Violet",
                 "&1Deep Blue"
             ],
-            "weight": 500,
+            "weight": 15.625,
             "time_limit": 15
         },
         {
@@ -154,7 +154,7 @@
                 "&5Violet",
                 "&1Deep Blue"
             ],
-            "weight": 1000,
+            "weight": 11.71875,
             "time_limit": 15
         },
         {
@@ -177,7 +177,7 @@
                 "&5Violet",
                 "&1Deep Blue"
             ],
-            "weight": 1000,
+            "weight": 3.90625,
             "time_limit": 15
         },
         {
@@ -200,7 +200,7 @@
                 "&5Violet",
                 "&1Deep Blue"
             ],
-            "weight": 500,
+            "weight": 31.25,
             "time_limit": 15
         },
         {
@@ -223,7 +223,7 @@
                 "&5Violet",
                 "&1Deep Blue"
             ],
-            "weight": 375,
+            "weight": 23.4375,
             "time_limit": 15
         },
         {
@@ -246,7 +246,7 @@
                 "&5Violet",
                 "&1Deep Blue"
             ],
-            "weight": 4500,
+            "weight": 88.9892578125,
             "time_limit": 15
         },
         {
@@ -271,7 +271,7 @@
                 "&5Violet",
                 "&1Deep Blue"
             ],
-            "weight": 562.5,
+            "weight": 35.15625,
             "time_limit": 15
         },
         {
@@ -294,7 +294,7 @@
                 "&5Violet",
                 "&1Deep Blue"
             ],
-            "weight": 375,
+            "weight": 35.15625,
             "time_limit": 15
         },
         {
@@ -316,7 +316,7 @@
                 "&fColourless",
                 "&fWhite"
             ],
-            "weight": 250,
+            "weight": 15.625,
             "time_limit": 15
         },
         {
@@ -339,7 +339,7 @@
                 "&5Violet",
                 "&1Deep Blue"
             ],
-            "weight": 375,
+            "weight": 70.3125,
             "time_limit": 15
         },
         {
@@ -362,7 +362,7 @@
                 "&5Violet",
                 "&1Deep Blue"
             ],
-            "weight": 1000,
+            "weight": 31.25,
             "time_limit": 15
         },
         {
@@ -384,7 +384,7 @@
                 "&fColourless",
                 "&fWhite"
             ],
-            "weight": 250,
+            "weight": 46.875,
             "time_limit": 15
         },
         {
@@ -410,7 +410,7 @@
                 "&5Violet",
                 "&1Deep Blue"
             ],
-            "weight": 250,
+            "weight": 93.75,
             "time_limit": 15
         },
         {
@@ -433,7 +433,7 @@
                 "&fWhite",
                 "&5Violet"
             ],
-            "weight": 281.25,
+            "weight": 26.3671875,
             "time_limit": 15
         }
     ]

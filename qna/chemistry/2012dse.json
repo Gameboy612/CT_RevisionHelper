@@ -9,7 +9,7 @@
                 "C(graphite)"
             ],
             "feedback": "CH₃CH₂OH does not have delocalized electrons.\n\n&7Q1 2012 DSE",
-            "weight": 31.25,
+            "weight": 7.8125,
             "time_limit": 15
         },
         {
@@ -39,7 +39,7 @@
                 "H-Cl is polar bond",
                 "SO₂ has 1 lone pair of electrons."
             ],
-            "weight": 93.75,
+            "weight": 23.4375,
             "time_limit": 15
         },
         {
@@ -51,7 +51,7 @@
                 "+6"
             ],
             "feedback": "Cu²⁺ ion is +2 O.N.\n\n&7Q6 2012 DSE",
-            "weight": 125,
+            "weight": 15.625,
             "time_limit": 15
         },
         {
@@ -63,7 +63,7 @@
                 "Silicon and Carbon have 4 outermost shell electrons"
             ],
             "feedback": "Similar structure to Diamond, crystallized structure. Strong Covalent Bond.\n\n&7Q8 2012 DSE",
-            "weight": 15.625,
+            "weight": 7.8125,
             "time_limit": 15
         },
         {
@@ -75,7 +75,7 @@
                 "Li₂O"
             ],
             "feedback": "CO₂ + H₂O <=> H₂CO₃\n\n&7Q31 2012 DSE",
-            "weight": 62.5,
+            "weight": 15.625,
             "time_limit": 15
         }
     ]
